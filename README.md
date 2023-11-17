@@ -2,23 +2,14 @@
 ### Control Systems engineer interested in AI & BI
 
 
-I help businesses and individuals manage and control their operations by providing custom data analysis programs that run automatically and provide periodic reports and analysis for tacking track of production, operation processes and trades.
+I help businesses and individuals to better manage and have insights on their operations by providing custom data analysis programs that run automatically and provide periodic reports and analysis for tacking track of operations.
 
     🌍 living in Iran/Tehran
     ✉️ Contact me at Alinabavizadeh78@gmaiol.com
 
+### skills:
+    python
+    git
+    Machine Learning
+    Business Intelligence
 
-<!--
-**AliNabavi/AliNabavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

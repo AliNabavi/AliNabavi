@@ -1,9 +1,12 @@
-## Hi there 👋  This is Ali
-### Control Systems engineer interested in AI & BI.
+## Hi there 👋  This is Ali.
+### Control Systems engineer interested in AI & BI
 
 
 I help businesses and individuals manage and control their operations by providing custom data analysis programs that run automatically and provide periodic reports and analysis for tacking track of production, operation processes and trades.
 
+    🌍 living in Iran/Tehran
+    ✉️ Contact me at [Alinabavizadeh78@gmaiol.com](mailto:alinabavizadeh78@gmail.com)
+    
 
 <!--
 **AliNabavi/AliNabavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

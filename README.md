@@ -7,9 +7,14 @@ I help businesses and individuals to better manage and have insights on their op
     🌍 living in Iran/Tehran
     ✉️ Contact me at Alinabavizadeh78@gmaiol.com
 
-### skills:
+##### skills:
     python
     git
     Machine Learning
     Business Intelligence
 
+
+### Social Nets.
+    [LinkedIN](https://www.linkedin.com/in/alinabavizadeh/)
+
+    

@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-This is Ali
+# This is Ali
+
+Control Systems engineer interested in artificial intelligence and decision making systems.
+I help businesses and individuals manage and control their operations by providing custom data analysis programs that run automatically and provide periodic reports and analysis for tacking track of production, operation processes and trades.
+
 
 <!--
 **AliNabavi/AliNabavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -15,6 +15,7 @@ I help businesses and individuals to better manage and have insights on their op
 
 
 ### Social Nets.
+
     [LinkedIN](https://www.linkedin.com/in/alinabavizadeh)
 
     
